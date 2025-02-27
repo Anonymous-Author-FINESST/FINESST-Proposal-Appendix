@@ -1,1 +1,1 @@
-The importance of this work, its connection to the goals of NASA's Planetary Science Research Program, and its anticipated outcomes are detailed in the Appendix file (.pdf).
+The importance of this work, its connection to the goals of NASA's Planetary Science Research Program, and its anticipated outcomes in the form of research papers (Table A1) are outlined in the Appendix file (FINESST_Appendix.pdf).
